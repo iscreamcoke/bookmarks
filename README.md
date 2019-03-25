@@ -1,12 +1,12 @@
-# bookmarks
+# Piracy Links by Adri
 
 ## General
 
   ### Private
   
    * [AlphaRatio](https://alpharatio.cc/index.php)
-   * (https://www.torrentleech.org)
-   * (https://www.iptorrents.com)
+   * [TorrentLeech](https://www.torrentleech.org)
+   * [IPTorrents](https://www.iptorrents.com)
    
   ### Public
   
@@ -20,10 +20,10 @@
   
   ### French
   
-   * https://www.yggtorrent.gg
-   * https://ww3.cpasbiens.co
-   * https://wvw.t9.pe
-   * https://www.gktorrent.tv
+   * [YggTorrent](https://www.yggtorrent.gg)
+   * [Cpasbien](https://ww3.cpasbiens.co)
+   * [Torrent9](https://wvw.t9.pe)
+   * [GKTorrents](https://www.gktorrent.tv)
    
   ### Scene DB
   
@@ -51,8 +51,8 @@
   ### DB
   
    * [DVDBeaver](https://cse.google.com/cse?cx=partner-pub-2826674300888258%3Ahn5ib0-elex&ie=ISO-8859-1&)
-   * https://www.blu-ray.com
-   * https://caps-a-holic.com
+   * [Blu-Ray.com](https://www.blu-ray.com)
+   * [Caps-a-Holic](https://caps-a-holic.com)
   
 ## Livres
 
@@ -83,24 +83,24 @@
   
 ## Apps
 
-  * http://mac-torrents.com
-  * https://brokenstones.club/index.php
-  * https://www.macbed.com
+  * [Mac-Torrents](http://mac-torrents.com)
+  * [BrokenStones](https://brokenstones.club/index.php)
+  * [MacBed](https://www.macbed.com)
   
 ## TV
 
-  * https://acestreamid.com
-  * https://www.firstonetv.live/Live/France
-  * [9docu](https://9docu.net)
-  * [MyReplay](http://myreplayfr.over-blog.com)
+  * [AceStreamID](https://acestreamid.com)
+  * [Firstone](https://www.firstonetv.live/Live/France)
+  * [9docu](https://9docu.net) | [MyReplay](http://myreplayfr.over-blog.com)
 
-##
+## Others
 
   ### GFX
   
-  * (http://psdkeys.com)
-  * (https://gfxpeers.net)
-  * (https://www.cgpeers.to)
+  * [PSDKeys](http://psdkeys.com)
+  * [GFXPeers](https://gfxpeers.net) | [GGPeers](https://www.cgpeers.to)
   * [GraphiceX](http://graphicex.com)
 
+  ### Proxys
+  
   * [Spys](http://spys.one/en/)
