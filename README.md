@@ -13,7 +13,7 @@
 
    * [1337](https://1337x.to)
    * [Zooqle](https://zooqle.com) | [Torrentz](https://torrentz2.eu) | [TParser](https://tparser.me) | [SolidTorrents](https://solidtorrents.net)
-   * https://filepursuit.com
+   * [FilePursuit](https://filepursuit.com)
    * [RuTracker](https://rutracker.net/forum/index.php)
    * [RuTor](http://rutor.info)
   
