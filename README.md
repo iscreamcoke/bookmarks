@@ -12,9 +12,8 @@
   
 
    * [1337](https://1337x.to)
-   * [Zooqle](https://zooqle.com)
-   * [Torrentz](https://torrentz2.eu)
-   * [TParser](https://tparser.me)
+   * [Zooqle](https://zooqle.com) | [Torrentz](https://torrentz2.eu) | [TParser](https://tparser.me) | [SolidTorrents](https://solidtorrents.net)
+   * https://filepursuit.com
    * [RuTracker](https://rutracker.net/forum/index.php)
    * [RuTor](http://rutor.info)
   
@@ -77,7 +76,7 @@
   * [The-Eye](https://the-eye.eu/public)
   * [Vimm](https://vimm.net/vault)
   * [NitroBlog](https://nblog.org)
-  * [NNM Club](http://nnmclub.to/forum/viewforum.php?f=382)
+  * [NoNaMe Club](http://nnmclub.to/forum/viewforum.php?f=382)
   * ReDump DB: [PS2](https://1fichier.com/dir/uExVcS2h) | [XBOX](https://1fichier.com/dir/uC84F4rv) | [Wii](https://drive.google.com/drive/folders/1nA5pDvkxDuIjxOUne3wm2-76WtBnniiM) | [3DS](https://drive.google.com/drive/folders/15FAR0QPOw3N0ripMgfn18evxuY9lx9WT) | [PS3](https://1fichier.com/dir/ADQiiVVd) (psswd:ByAlvRo)
   * [ArcadePunks Sega](https://www.arcadepunks.com/arcade-punks-arcade-building-modding-and-gaming-forum/topic/pc-engine-cd-turbografx-cd-trurip-147gb)
   
@@ -101,6 +100,7 @@
   * [GFXPeers](https://gfxpeers.net) | [GGPeers](https://www.cgpeers.to)
   * [GraphiceX](http://graphicex.com)
 
-  ### Proxys
+  ### Lists
   
   * [Spys](http://spys.one/en/)
+  * [Private Trackers Invite Board](https://imgur.com/0QoLttS)
