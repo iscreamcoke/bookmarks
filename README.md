@@ -58,9 +58,9 @@
    * [MAM](https://www.myanonamouse.net)
    * [LibGen](http://gen.lib.rus.ec)
    * [B-OK](https://b-ok.org)
-   * http://audiobookbay.pl
-   * http://magazinelib.com | http://pdf-giant.com | http://magzdb.org
-   * https://www.bookys-gratuit.org/ | http://ebook-planete.org | https://www.vosbooks.tv | https://www.ebook-gratuit.co | http://zone-ebook.com | http://bookddl.com
+   * [AudioBookBay](http://audiobookbay.pl)
+   * [MagazineLib](http://magazinelib.com) | [PDF-Giant](http://pdf-giant.com) | [MagzDB](http://magzdb.org)
+   * [Bookys](https://www.bookys-gratuit.org) | [Ebook-Planete](http://ebook-planete.org) | [VosBooks](https://www.vosbooks.tv) | [Ebook-gratuit](https://www.ebook-gratuit.co) | [Zone-ebook](http://zone-ebook.com] | [Bookddl](http://bookddl.com)
    * [FreeTurorial](https://ftuforum.com)
    
 ## Games
@@ -104,3 +104,4 @@
   
   * [Spys](http://spys.one/en/)
   * [Private Trackers Invite Board](https://imgur.com/0QoLttS)
+  * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)
