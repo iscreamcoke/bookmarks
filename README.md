@@ -14,8 +14,7 @@
    * [1337](https://1337x.to)
    * [Zooqle](https://zooqle.com) | [Torrentz](https://torrentz2.eu) | [TParser](https://tparser.me) | [SolidTorrents](https://solidtorrents.net)
    * [FilePursuit](https://filepursuit.com)
-   * [RuTracker](https://rutracker.net/forum/index.php)
-   * [RuTor](http://rutor.info)
+   * [RuTracker](https://rutracker.net/forum/index.php) | [RuTor](http://rutor.info)
   
   ### French
   
@@ -60,7 +59,7 @@
    * [B-OK](https://b-ok.org)
    * [AudioBookBay](http://audiobookbay.pl)
    * [MagazineLib](http://magazinelib.com) | [PDF-Giant](http://pdf-giant.com) | [MagzDB](http://magzdb.org)
-   * [Bookys](https://www.bookys-gratuit.org) | [Ebook-Planete](http://ebook-planete.org) | [VosBooks](https://www.vosbooks.tv) | [Ebook-gratuit](https://www.ebook-gratuit.co) | [Zone-ebook](http://zone-ebook.com] | [Bookddl](http://bookddl.com)
+   * [Bookys](https://www.bookys-gratuit.org) | [Ebook-Planete](http://ebook-planete.org) | [VosBooks](https://www.vosbooks.tv) | [Ebook-gratuit](https://www.ebook-gratuit.co) | [Zone-ebook](http://zone-ebook.com) | [Bookddl](http://bookddl.com)
    * [FreeTurorial](https://ftuforum.com)
    
 ## Games
