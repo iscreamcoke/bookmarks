@@ -86,7 +86,6 @@
 ## TV
 
   * [AceStreamID](https://acestreamid.com)
-  * [Firstone](https://www.firstonetv.live/Live/France)
   * [9docu](https://9docu.net) | [MyReplay](http://myreplayfr.over-blog.com)
 
 ## Others
