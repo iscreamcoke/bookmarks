@@ -101,3 +101,7 @@
   * [Spys](http://spys.one/en/)
   * [Private Trackers Invite Board](https://imgur.com/0QoLttS)
   * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)
+  
+  ## Jailbreak
+  
+  * [TSS Saver](https://stor.1conan.com/tsssaver/shsh/2877731438662950/)
