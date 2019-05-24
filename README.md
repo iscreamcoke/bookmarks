@@ -1,32 +1,32 @@
 # Bookmarks
 
 ## Contents
-- **[News](#News)**
+- **[NEWS](#News)**
     - [Papers](#Papers)
     - [Magazines](#Magazines)
-- **[Piracy](#Piracy)**
+- **[PIRACY](#Piracy)**
     - [Private](#Private)
     - [Public](#Public)
     - [French](#French)
     - [Public](#Public)
-- **[Movies](#Movies)**
+- **[MOVIES](#Movies)**
     - [Private](#Private)
     - [Public](#Public)
     - [Movie Database](#Movie-DB)
-- **[Livres](#Livres)**
+- **[LIVRES](#Livres)**
     - [General](#General)
     - [French](#French)
     - [Magazines](#Magazines)
-- **[Games](#Games)**
+- **[GAMES](#Games)**
     - [General](#General)
     - [Roms](#Roms)
-- **[Apps](#Apps)**
+- **[APPS](#Apps)**
     - [Mac](#Mac)
     - [GFX](#GFX)
 - **[TV](#TV)**
     - [Streaming](#Streaming)
     - [IPTV](#IPTV)
-- **[Tools](#Tools)**
+- **[TOOLS](#Tools)**
    
 ## News
 
