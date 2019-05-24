@@ -7,7 +7,7 @@
 - [Piracy](#Piracy)
     - [Private](#Private)
     - [Public](#Public)
-    - [Infos](#Infos)
+    - [French](#French)
     - [Public](#Public)
 - [Movies](#Movies)
     - [Private](#Private)
@@ -37,6 +37,14 @@
 
 ### Magazines
 
+  * [Economist](https://www.economist.com/printedition/covers?print_region=76976)
+  * [New Yorker](https://www.newyorker.com/magazine/) | [Reporting](https://www.newyorker.com/magazine/reporting/)
+  * [Foreign Affairs](https://www.foreignaffairs.com/issues/) | [Snapshot](https://www.foreignaffairs.com/browse/snapshot/)
+  * [MIT Tech Review](https://www.technologyreview.com/magazine/)
+  * [Harvard Business Review](https://hbr.org/magazine/)
+  * [Spectator](https://www.spectator.co.uk/magazine/)
+  * [Harpers](https://harpers.org/)
+  
 
 ## Piracy
 
@@ -151,5 +159,5 @@
   
   * [Proxys](http://spys.one/en/)
   * [Awesome Piracy List](https://github.com/Igglybuff/awesome-piracy)
-  * [Firefox Addbons](https://enchiridion.red/2019/1/18/firefox-extensions/) 
+  * [Firefox Addons](https://enchiridion.red/2019/1/18/firefox-extensions/) 
   
