@@ -13,11 +13,11 @@
     - [Private](#Private)
     - [Public](#Public)
     - [Movie Database](#Movie-DB)
-- **[LIVRES](#Livres)**
+- **[KNOWLEDGE](#Knowledge)**
     - [General](#General)
     - [French](#French)
     - [Magazines](#Magazines)
-- **[KNOWLEDGE](#Knowledge)**
+    - [Encyclopedia](#Encyclopedia)
 - **[GAMES](#Games)**
     - [General](#General)
     - [Roms](#Roms)
@@ -102,7 +102,7 @@
    * [Blu-Ray.com](https://www.blu-ray.com)
    * [Caps-a-Holic](https://caps-a-holic.com)
   
-## Livres
+## Knowledge
 
 ### General
 
@@ -126,7 +126,7 @@
    * [PDF-Giant](http://pdf-giant.com)
    * [MagzDB](http://magzdb.org)
    
-## Knowledge
+### Encyclopedia
 
    * [Standford Encyclopedia](https://plato.stanford.edu/index.html/)
    
