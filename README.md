@@ -14,6 +14,9 @@
     - [Public](#Public)
     - [Movie Database](#Movie-DB)
 - [Livres](#Livres)
+    - [General](#General)
+    - [French](#French)
+    - [Magazines](#Magazines)
 - [Games](#Games)
     - [General](#General)
     - [Roms](#Roms)
@@ -101,13 +104,27 @@
   
 ## Livres
 
+### General
+
    * [MAM](https://www.myanonamouse.net)
    * [LibGen](http://gen.lib.rus.ec)
    * [B-OK](https://b-ok.org)
    * [AudioBookBay](http://audiobookbay.pl)
-   * [MagazineLib](http://magazinelib.com) | [PDF-Giant](http://pdf-giant.com) | [MagzDB](http://magzdb.org)
-   * [Bookys](https://www.bookys-gratuit.org) | [Ebook-Planete](http://ebook-planete.org) | [VosBooks](https://www.vosbooks.tv) | [Ebook-gratuit](https://www.ebook-gratuit.co) | [Zone-ebook](http://zone-ebook.com) | [Bookddl](http://bookddl.com)
-   * [FreeTurorial](https://ftuforum.com)
+
+### French
+
+   * [Bookys](https://www.bookys-gratuit.org)
+   * [Ebook-Planete](http://ebook-planete.org)
+   * [VosBooks](https://www.vosbooks.tv)
+   * [Ebook-gratuit](https://www.ebook-gratuit.co)
+   * [Zone-ebook](http://zone-ebook.com)
+   * [Bookddl](http://bookddl.com)
+
+### Magazines
+
+   * [MagazineLib](http://magazinelib.com)
+   * [PDF-Giant](http://pdf-giant.com)
+   * [MagzDB](http://magzdb.org)
    
 ## Games
 
@@ -160,4 +177,4 @@
   * [Proxys](http://spys.one/en/)
   * [Awesome Piracy List](https://github.com/Igglybuff/awesome-piracy)
   * [Firefox Addons](https://enchiridion.red/2019/1/18/firefox-extensions/) 
-  
+  * [FreeTutorial](https://ftuforum.com)
