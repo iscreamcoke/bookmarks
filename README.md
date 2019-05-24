@@ -4,7 +4,7 @@
 - [News](#News)
     - [Papers](#Papers)
     - [Magazines](#Magazines)
-- [General](#General)
+- [Piracy](#Piracy)
     - [Private](#Private)
     - [Public](#Public)
     - [Infos](#Infos)
@@ -29,16 +29,16 @@
 
 ### Papers
 
-   * [FT EU](https://www.ft.com/world/europe) | [FT World](https://www.ft.com/world) | [FT Tech](https://www.ft.com/technology)
-   * [NYT World](https://www.nytimes.com/section/world) | [NYT Tech](https://www.nytimes.com/section/technology)
-   * [WSJ World](https://www.wsj.com/news/world) | [WSJ CMO](https://www.wsj.com/news/cmo-today) | [WSJ CIO](https://www.wsj.com/news/cio-journal)
+   * [FT EU](https://www.ft.com/world/europe) | [World](https://www.ft.com/world) | [Tech](https://www.ft.com/technology)
+   * [NYT World](https://www.nytimes.com/section/world) | [Tech](https://www.nytimes.com/section/technology)
+   * [WSJ World](https://www.wsj.com/news/world) | [CMO](https://www.wsj.com/news/cmo-today) | [CIO](https://www.wsj.com/news/cio-journal)
    * [Politico](https://www.politico.eu/news/)
    * [Wired](https://www.wired.com) | [The Verge](https://www.theverge.com/) | [9to5Mac](https://9to5mac.com/)
 
 ### Magazines
 
 
-## General
+## Piracy
 
 ### Private
   
