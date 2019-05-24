@@ -17,6 +17,7 @@
     - [General](#General)
     - [French](#French)
     - [Magazines](#Magazines)
+- **[KNOWLEDGE](#Knowledge)**
 - **[GAMES](#Games)**
     - [General](#General)
     - [Roms](#Roms)
@@ -48,7 +49,6 @@
   * [Spectator](https://www.spectator.co.uk/magazine/)
   * [Harpers](https://harpers.org/)
   
-
 ## Piracy
 
 ### Private
@@ -125,6 +125,10 @@
    * [MagazineLib](http://magazinelib.com)
    * [PDF-Giant](http://pdf-giant.com)
    * [MagzDB](http://magzdb.org)
+   
+## Knowledge
+
+   * [Standford Encyclopedia](h(https://plato.stanford.edu/index.html/)
    
 ## Games
 
