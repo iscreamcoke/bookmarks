@@ -1,37 +1,76 @@
-# Piracy Links by Adri
+# Bookmarks
+
+## Contents
+- [News](#News)
+    - [Papers](#Papers)
+    - [Magazines](#Magazines)
+- [General](#General)
+    - [Private](#Private)
+    - [Public](#Public)
+    - [Infos](#Infos)
+    - [Public](#Public)
+- [Movies](#Movies)
+    - [Private](#Private)
+    - [Public](#Public)
+    - [Movie Database](#Movie-DB)
+- [Livres](#Livres)
+- [Games](#Games)
+    - [General](#General)
+    - [Roms](#Roms)
+- [Apps](#Apps)
+    - [Mac](#Mac)
+    - [GFX](#GFX)
+- [TV](#TV)
+    - [Streaming](#Streaming)
+    - [IPTV](#IPTV)
+- [Tools](#Tools)
+   
+## News
+
+### Papers
+
+   * [FT EU](https://www.ft.com/world/europe) | [FT World](https://www.ft.com/world) | [FT Tech](https://www.ft.com/technology)
+   * [NYT World](https://www.nytimes.com/section/world) | [NYT Tech](https://www.nytimes.com/section/technology)
+   * [WSJ World](https://www.wsj.com/news/world) | [WSJ CMO](https://www.wsj.com/news/cmo-today) | [WSJ CIO](https://www.wsj.com/news/cio-journal)
+   * [Politico](https://www.politico.eu/news/)
+   * [Wired](https://www.wired.com) | [The Verge](https://www.theverge.com/) | [9to5Mac](https://9to5mac.com/)
+
+### Magazines
+
 
 ## General
 
-  ### Private
+### Private
   
    * [AlphaRatio](https://alpharatio.cc/index.php)
    * [TorrentLeech](https://www.torrentleech.org)
    * [IPTorrents](https://www.iptorrents.com)
    
-  ### Public
+### Public
   
-
    * [1337](https://1337x.to)
    * [Zooqle](https://zooqle.com) | [Torrentz](https://torrentz2.eu) | [TParser](https://tparser.me) | [SolidTorrents](https://solidtorrents.net)
    * [FilePursuit](https://filepursuit.com)
    * [RuTracker](https://rutracker.net/forum/index.php) | [RuTor](http://rutor.info)
   
-  ### French
+### French
   
    * [YggTorrent](https://www.yggtorrent.gg)
    * [Cpasbien](https://ww3.cpasbiens.co)
    * [Torrent9](https://wvw.t9.pe)
    * [GKTorrents](https://www.gktorrent.tv)
    
-  ### Scene DB
+### Infos
   
    * [PreDB.org](https://predb.org)
    * [Pre C-Burn](http://pre.c-burns.co.uk/pre.php)
    * [SrrDB](https://www.srrdb.com)
+   * [Private Trackers Invite Board](https://imgur.com/0QoLttS)
+   * [Tracker Status](https://trackerstatus.info/)
 
 ## Movies
 
-  ### Private
+### Private
   
    * [HD-Torrents](https://hd-torrents.org/torrents.php?csrfToken=e6499683d7d343323a3e8f32600e0248bfe39609c549132e7545bb3ef065fa0a&search=&active=0&options=0&category%5B%5D=70&category%5B%5D=1)
    * [PrivateHD](https://privatehd.to/torrents) | [CinemaZ](https://cinemaz.to/torrents) | [AvistaZ](https://avistaz.to/torrents)
@@ -40,13 +79,13 @@
    * [TheEmpire](https://theempire.click/main.php)
    * [MVGroup](http://forums.mvgroup.org/maintracker.php)
    
-  ### Public
+### Public
   
    * [RarBG](https://rarbgaccessed.org/catalog/movies)
    * [HDTShare](http://www.hdtshare.com/sitemap/f-15-p-49.html) | [BestRun](http://www.hdtshare.com/hd-movie-requests/bestrun-hd-collection-400724.html)
    * [Snahp](https://snahp.it/?cat=5711)
 
-  ### DB
+### Movie-DB
   
    * [DVDBeaver](https://cse.google.com/cse?cx=partner-pub-2826674300888258%3Ahn5ib0-elex&ie=ISO-8859-1&)
    * [Blu-Ray.com](https://www.blu-ray.com)
@@ -64,12 +103,12 @@
    
 ## Games
 
-  ### General
+### General
   
   * [FitGirl](http://fitgirl-repacks.site)
   * [GazelleGames](https://gazellegames.net/index.php)
   
-  ### Roms
+### Roms
   
   * [CD-Romance](https://cdromance.com)
   * [The-Eye](https://the-eye.eu/public) | [Vimm](https://vimm.net/vault) | [NitroBlog](https://nblog.org)
@@ -79,31 +118,38 @@
   
 ## Apps
 
+### Mac
+
   * [Mac-Torrents](http://mac-torrents.com)
   * [BrokenStones](https://brokenstones.club/index.php)
   * [MacBed](https://www.macbed.com)
-  
-## TV
 
-  * [AceStreamID](https://acestreamid.com)
-  * [9docu](https://9docu.net) | [MyReplay](http://myreplayfr.over-blog.com)
-
-## Others
-
-  ### GFX
+### GFX
   
   * [PSDKeys](http://psdkeys.com)
   * [GFXPeers](https://gfxpeers.net) | [GGPeers](https://www.cgpeers.to)
   * [GraphiceX](http://graphicex.com)
 
-  ### Lists
-  
-  * [Spys](http://spys.one/en/)
-  * [Private Trackers Invite Board](https://imgur.com/0QoLttS)
-  * [Tracker Status](https://trackerstatus.info/)
-  * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)
-  
-  ## Jailbreak
+### Jailbreak
   
   * [TSS Saver](https://stor.1conan.com/tsssaver/shsh/2877731438662950/)
   * [IPWS](https://ipsw.me/)
+  
+## TV
+
+### Streaming
+
+  * [AceStreamID](https://acestreamid.com)
+  * [9docu](https://9docu.net) | [MyReplay](http://myreplayfr.over-blog.com)
+
+### IPTV
+  
+  * [Energy](https://energyiptv.net/en/)
+  * [King 365](https://www.king365tv.com/)
+
+## Tools
+  
+  * [Proxys](http://spys.one/en/)
+  * [Awesome Piracy List](https://github.com/Igglybuff/awesome-piracy)
+  * [Firefox Addbons](https://enchiridion.red/2019/1/18/firefox-extensions/) 
+  
