@@ -128,7 +128,7 @@
    
 ## Knowledge
 
-   * [Standford Encyclopedia](h(https://plato.stanford.edu/index.html/)
+   * [Standford Encyclopedia](https://plato.stanford.edu/index.html/)
    
 ## Games
 
