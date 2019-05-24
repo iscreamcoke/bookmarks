@@ -100,6 +100,7 @@
   
   * [Spys](http://spys.one/en/)
   * [Private Trackers Invite Board](https://imgur.com/0QoLttS)
+  * [Tracker Status](https://trackerstatus.info/)
   * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)
   
   ## Jailbreak
