@@ -15,7 +15,7 @@
     - [Movie Database](#Movie-DB)
 - **[KNOWLEDGE](#Knowledge)**
     - [General](#General)
-    - [Frannçais](#Book-French)
+    - [Français](#Book-French)
     - [Magazines](#Magazines)
     - [Encyclopedia](#Encyclopedia)
 - **[GAMES](#Games)**
