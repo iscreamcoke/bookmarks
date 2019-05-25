@@ -7,7 +7,7 @@
 - **[PIRACY](#Piracy)**
     - [Private](#Private)
     - [Public](#Public)
-    - [French](#French)
+    - [Français](#French)
     - [Public](#Public)
 - **[MOVIES](#Movies)**
     - [Private](#Private)
@@ -15,7 +15,7 @@
     - [Movie Database](#Movie-DB)
 - **[KNOWLEDGE](#Knowledge)**
     - [General](#General)
-    - [French](#French)
+    - [Frannçais](#Book-French)
     - [Magazines](#Magazines)
     - [Encyclopedia](#Encyclopedia)
 - **[GAMES](#Games)**
@@ -111,7 +111,7 @@
    * [B-OK](https://b-ok.org)
    * [AudioBookBay](http://audiobookbay.pl)
 
-### French
+### Book-French
 
    * [Bookys](https://www.bookys-gratuit.org)
    * [Ebook-Planete](http://ebook-planete.org)
