@@ -8,11 +8,11 @@
     - [Private](#Private)
     - [Public](#Public)
     - [Français](#French)
-    - [Public](#Public)
+    - [Infos](#Infos)
 - **[FILMS](#Movies)**
     - [Private](#Private)
     - [Public](#Public)
-    - [Movie Database](#Movie-DB)
+    - [Database](#Movie-DB)
 - **[KNOWLEDGE](#Knowledge)**
     - [General](#General)
     - [Français](#Book-French)
