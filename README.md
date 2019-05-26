@@ -158,13 +158,18 @@
   
   * [TSS Saver](https://stor.1conan.com/tsssaver/shsh/2877731438662950/)
   * [IPWS](https://ipsw.me/)
+  * [AppDB](http://appdb.to/)
   * [Blobs AppleTV 4K](https://www.idownloadblog.com/2019/05/19/save-blobs-apple-tv-4k/)
+  * [PopcornTime](https://github.com/PopcornTimeTV/PopcornTimeTV)
 
 ### GFX
   
   * [PSDKeys](http://psdkeys.com)
   * [GFXPeers](https://gfxpeers.net) | [GGPeers](https://www.cgpeers.to)
   * [GraphiceX](http://graphicex.com)
+  * [FlatIcons](https://www.flaticon.com/)
+  * [FontAwesome](https://fontawesome.com/)
+  * [BoxIcons](https://boxicons.com/)
   
 ## TV
 
