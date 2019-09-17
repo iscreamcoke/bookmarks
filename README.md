@@ -176,7 +176,7 @@
 ### Streaming
 
   * [AceStreamID](https://acestreamid.com)
-  * [9docu](https://9docu.net) | [MyReplay](http://myreplayfr.over-blog.com)
+  * [9docu](https://9docu.net)
 
 ### IPTV
   
