@@ -37,6 +37,7 @@
    * [FT EU](https://www.ft.com/world/europe) | [World](https://www.ft.com/world) | [Tech](https://www.ft.com/technology)
    * [NYT World](https://www.nytimes.com/section/world) | [Tech](https://www.nytimes.com/section/technology)
    * [WSJ World](https://www.wsj.com/news/world) | [CMO](https://www.wsj.com/news/cmo-today) | [CIO](https://www.wsj.com/news/cio-journal)
+   * [WaPo World](https://www.washingtonpost.com/world/?nid=top_nav_world)
    * [Politico](https://www.politico.eu/news/)
    * [Wired](https://www.wired.com) | [The Verge](https://www.theverge.com/) | [9to5Mac](https://9to5mac.com/)
 
@@ -47,8 +48,13 @@
   * [Foreign Affairs](https://www.foreignaffairs.com/issues/) | [Snapshot](https://www.foreignaffairs.com/browse/snapshot/)
   * [MIT Tech Review](https://www.technologyreview.com/magazine/)
   * [Harvard Business Review](https://hbr.org/magazine/)
-  * [Spectator](https://www.spectator.co.uk/magazine/)
+  * [McKinsey Insights](https://www.mckinsey.com/featured-insights) | [Quaterly](https://www.mckinsey.com/quarterly/overview)
   * [Harpers](https://harpers.org/)
+  
+#### Politics
+
+  * [Spectator](https://www.spectator.co.uk/magazine/)
+  * [National Review](https://www.nationalreview.com/)
   
 ## Piracy
 
