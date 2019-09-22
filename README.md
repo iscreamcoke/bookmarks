@@ -10,7 +10,7 @@
     - [Français](#French)
     - [Infos](#Infos)
 - **[FILMS](#Movies)**
-    - [Private](#Private)
+    - [Private](#Private-m)
     - [Public](#Public)
     - [Database](#Movie-DB)
 - **[KNOWLEDGE](#Knowledge)**
@@ -88,12 +88,12 @@
 
 ## Movies
 
-### Private
+### Private-m
   
    * [HD-Torrents](https://hd-torrents.org/torrents.php?csrfToken=e6499683d7d343323a3e8f32600e0248bfe39609c549132e7545bb3ef065fa0a&search=&active=0&options=0&category%5B%5D=70&category%5B%5D=1)
    * [PrivateHD](https://privatehd.to/torrents) | [CinemaZ](https://cinemaz.to/torrents) | [AvistaZ](https://avistaz.to/torrents)
    * [CHDBits](https://chdbits.co/torrents.php?cat=401)
-   * [BeyondHD](https://beyond-hd.me)
+   * [Awesome-HD](https://awesome-hd.me/login.php) | [BeyondHD](https://beyond-hd.me)
    * [TheEmpire](https://theempire.click/main.php)
    * [MVGroup](http://forums.mvgroup.org/maintracker.php)
    
