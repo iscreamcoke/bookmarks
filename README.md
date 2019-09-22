@@ -36,7 +36,7 @@
 
    * [FT EU](https://www.ft.com/world/europe) | [World](https://www.ft.com/world) | [Tech](https://www.ft.com/technology)
    * [NYT World](https://www.nytimes.com/section/world) | [Tech](https://www.nytimes.com/section/technology)
-   * [WSJ World](https://www.wsj.com/news/world) | [CMO](https://www.wsj.com/news/cmo-today) | [CIO](https://www.wsj.com/news/cio-journal)
+   * [WSJ World](https://www.wsj.com/news/world) | [Tech](https://www.wsj.com/news/technology?mod=rsswn) | [CMO](https://www.wsj.com/news/cmo-today) - [CIO](https://www.wsj.com/news/cio-journal)
    * [WaPo World](https://www.washingtonpost.com/world/?nid=top_nav_world)
    * [Politico](https://www.politico.eu/news/)
    * [Wired](https://www.wired.com) | [The Verge](https://www.theverge.com/) | [9to5Mac](https://9to5mac.com/)
