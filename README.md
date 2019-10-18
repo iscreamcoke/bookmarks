@@ -17,7 +17,7 @@
     - [General](#General)
     - [Français](#Book-French)
     - [Magazines](#Magazines)
-    - [Encyclopedia](#Encyclopedia)
+    - [Encyclopedia/Dictionaries](#Encyclopedia)
 - **[GAMES](#Games)**
     - [General](#General)
     - [Roms](#Roms)
@@ -135,6 +135,15 @@
 ### Encyclopedia
 
    * [Standford Encyclopedia](https://plato.stanford.edu/index.html/)
+   * [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/)
+   * [Der Neue Pauly](https://referenceworks.brillonline.com/browse/der-neue-pauly)
+   * [Oxford Classical Dictionary](https://oxfordre.com/classics)
+   * [Diccionario Grieco-Español](http://dge.cchs.csic.es/xdge/)
+   * [Lewis & Short Latin-English](https://www.latinitium.com/lewisshort)
+   * [Smith & Hall English–Latin](https://www.latinitium.com/smithhall)
+   * [Gaffiot Latin-Français](https://gaffiot.org/)
+   * [Online Etymology Dictionary](https://etymonline.com/)
+   * [American Heritage IE roots](https://ahdictionary.com/word/indoeurop.html)
    
 ## Games
 
