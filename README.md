@@ -138,6 +138,7 @@
    * [Der Neue Pauly](https://referenceworks.brillonline.com/browse/der-neue-pauly) | [Oxford Classical Dictionary](https://oxfordre.com/classics)
    * [Logeion](https://logeion.uchicago.edu/%E1%BC%8C%CE%BB%CE%B5%CE%BF%CF%82)
    * [Online Etymology Dictionary](https://etymonline.com/) | [American Heritage IE roots](https://ahdictionary.com/word/indoeurop.html)
+   * [Littre](https://www.littre.org/) | [DVLF](https://dvlf.uchicago.edu/)
    
 ## Games
 
