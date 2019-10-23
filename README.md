@@ -136,7 +136,7 @@
 
    * [Standford Encyclopedia](https://plato.stanford.edu/index.html/) | [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/)
    * [Der Neue Pauly](https://referenceworks.brillonline.com/browse/der-neue-pauly) | [Oxford Classical Dictionary](https://oxfordre.com/classics)
-   * [[Logeion]](https://logeion.uchicago.edu/%E1%BC%8C%CE%BB%CE%B5%CE%BF%CF%82)
+   * [Logeion](https://logeion.uchicago.edu/%E1%BC%8C%CE%BB%CE%B5%CE%BF%CF%82)
    * [Online Etymology Dictionary](https://etymonline.com/) | [American Heritage IE roots](https://ahdictionary.com/word/indoeurop.html)
    
 ## Games
